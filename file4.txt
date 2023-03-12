@@ -1,0 +1,1 @@
+added my name and email in git config
