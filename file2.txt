@@ -1,1 +1,3 @@
 Hi, this is first demo fot git
+
+Made changes in Fix-1 branch
